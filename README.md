@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pedrolino-reyes
-- 👀 I’m interested in developing and testing software
-- 🌱 I’m currently learning Spring Boot with Java, using Karate for testing. And I'm doing an MSc in Computer Science and Cyber Security with the University of York.
-- 📫 How to reach me? I've got loads of different email addresses. For strangers, try my university email address: jjq519@york.ac.uk
+- 👋 Hi, I’m @pedrolino-reyes.
+- 👀 I’m a full-stack developer. I take pride in developing, testing and deploying working software.
+- 🌱 I’m currently learning all about Ruby on Rails 8. Rails is my preferred web app platform.
+- 📫 How to reach me? I've got loads of different email addresses. For strangers, try this one: video-rule-2l@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Pete Reynolds isn't actually my official name... yet!
+- ⚡ Fun fact: Don't we all love a fun fact? 🤮
 
 <!---
 pedrolino-reyes/pedrolino-reyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
